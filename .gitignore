@@ -1,5 +1,13 @@
 *.csv
 
+# Local-only project brief (do not commit)
+/Group Project 2026 - Brief*.pdf
+
+# Local scratch artifacts (do not commit)
+/_brief_extracted*.txt
+/._tmp*.ipynb
+/_tmp*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
